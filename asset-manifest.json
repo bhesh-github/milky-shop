@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/milkyshop/static/css/main.7cdee4e6.css",
+    "main.js": "/milkyshop/static/js/main.b2fdcbc3.js",
+    "static/media/revicons.eot": "/milkyshop/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/milkyshop/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/milkyshop/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/milkyshop/index.html",
+    "main.7cdee4e6.css.map": "/milkyshop/static/css/main.7cdee4e6.css.map",
+    "main.b2fdcbc3.js.map": "/milkyshop/static/js/main.b2fdcbc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cdee4e6.css",
+    "static/js/main.b2fdcbc3.js"
+  ]
+}
