@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  // overflow-x:hidden;
+}
+body {
+  background-color: #eae9e9;
+}
+
+@import "./scssPartials/header";
+@import "./scssPartials/body";
+@import "./scssPartials/footer";
+@import './scssPartials/singleProduct';
+@import './scssPartials/starsRating.scss'

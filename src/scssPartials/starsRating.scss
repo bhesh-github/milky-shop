@@ -1,0 +1,15 @@
+.stars-comp-wrapper {
+  display: flex;
+  align-items: center;
+
+  .star-icons {
+    margin-top: 3px;
+    color: #fdcc0d;
+  }
+  .star-in-num {
+    font-style:normal;
+  }
+  .total-ratings{
+    color: rgb(11, 106, 132);
+  }
+}
